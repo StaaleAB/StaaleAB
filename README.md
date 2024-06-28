@@ -1,4 +1,4 @@
-## Hi there 👋
+## Jeg er lærer på Porsgrunn vgs 👋
 
 <!--
 **StaaleAB/StaaleAB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
